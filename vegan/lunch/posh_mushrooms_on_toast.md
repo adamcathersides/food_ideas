@@ -1,4 +1,4 @@
-#Posh mushrooms on toast
+# Posh mushrooms on toast
 
 * 5 mushrooms, sliced
 * Half a mild chilli, sliced into small bits.
